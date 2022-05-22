@@ -54,4 +54,4 @@
 <a href="https://github.com/mdarshadkhan1998"><img src="https://activity-graph.herokuapp.com/graph?username=mdarshadkhan1998&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarshadkhan1998&show_icons=true&theme=dark&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=red&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/mdarshadkhan1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarshadkhan1998&show_icons=true&theme=dark&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=teal&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/mdarshadkhan1998/github-readme-stats)
