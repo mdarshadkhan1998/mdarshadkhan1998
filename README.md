@@ -193,11 +193,11 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=mdarshadkhan1998&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p> -->
 
-![Github Stats](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/82591f810de6d5a525bcd5f9d5dd654038303d52/github-metrics.svg)
+<!-- ![Github Stats](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/82591f810de6d5a525bcd5f9d5dd654038303d52/github-metrics.svg) -->
 
-### :point_down: GitPic 
+<!-- ### :point_down: GitPic  -->
 
-![lionelsamrat10](https://socialify.git.ci/lionelsamrat10/lionelsamrat10/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+![lionelsamrat10](https://socialify.git.ci/mdarshadkhan1998/lionelsamrat10/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=lionelsamrat10" />
 </div>
