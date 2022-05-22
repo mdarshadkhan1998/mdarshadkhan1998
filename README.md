@@ -71,7 +71,7 @@
 
   <table align="center">
   <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
       </a>
@@ -100,7 +100,7 @@
         <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="Python" />
       </a>
       <br>React
-    </td>
+    </td> -->
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/" >
@@ -108,7 +108,7 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://azure.microsoft.com/" >
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
       </a>
@@ -139,7 +139,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
       </a>
       <br>CSS
-    </td>
+    </td> -->
     <td align="center"  width="96">
       <a href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
@@ -152,12 +152,12 @@
       </a>
       <br>Powershell
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
       <a href="https://aws.amazon.com/">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash" />
@@ -165,12 +165,12 @@
       <br>Bash
     </td>
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://spring.io/" >
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
       </a>
       <br>Spring
-    </td>
+    </td> -->
   </tr>
 </table> 
 
@@ -198,9 +198,9 @@
 <!-- ### :point_down: GitPic  -->
 
 <!-- ![lionelsamrat10](https://socialify.git.ci/lionelsamrat10/lionelsamrat10/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark) -->
-<div align="center">
+<!-- <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=mdarshadkhan1998" />
-</div>
+</div> -->
 
 <!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
 
