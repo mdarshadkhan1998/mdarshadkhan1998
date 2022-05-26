@@ -3,6 +3,7 @@
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am MD ARSHAD KHAN</h1>
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
 
+### Can Connect with me on :
 
 ![age](https://img.shields.io/badge/age-23-blue)
 ![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
@@ -35,36 +36,6 @@
 
   <table align="center">
   <tr>
-<!--     <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.oracle.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>React
-    </td> -->
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/" >
@@ -72,38 +43,6 @@
       </a>
       <br>Git
     </td>
-<!--     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/" >
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/" >
-        <img src="https://www.kevinleonards.me/upload/express.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>ExpressJs
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://ubuntu.com/" >
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center"  width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
-      </a>
-      <br>CSS
-    </td> -->
     <td align="center"  width="96">
       <a href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
@@ -116,12 +55,6 @@
       </a>
       <br>Powershell
     </td>
-<!--     <td align="center"  width="96">
-      <a href="https://aws.amazon.com/">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td> -->
     <td align="center" width="96">
       <a href="#" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash" />
@@ -129,26 +62,9 @@
       <br>Bash
     </td>
     </td>
-<!--     <td align="center" width="96">
-      <a href="https://spring.io/" >
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Spring
-    </td> -->
   </tr>
 </table> 
 
-<!-- ### Socials
-
-<p align="left"> 
-<a href="https://www.codesandbox.com/gautamgohil0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> 
-<a href="https://github.com/mdarshadkhan1998" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-<a href="https://gautamgohil07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
-<a href="https://www.instagram.com/_mad___boxer_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/md-arshad-khan-350206154/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://medium.com/@mdarshadkhan1998" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/gautam07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p> -->
 
 ### Badges
 
@@ -163,43 +79,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarshadkhan1998&show_icons=true&theme=dark&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=teal&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/mdarshadkhan1998/github-readme-stats)
 
-
-
-
-
-
-
-
-
-
-
-<!-- <br />
-<br />
-
-<h2 align="center">⚡ My Github Stats ⚡</h2>
-<br> -->
-<!-- <p align=center>
-  <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=lionelsamrat10&theme=react&border=61dafb&hide_border=true" alt="lionelsamrat10" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=lionelsamrat10&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelsamrat10&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdarshadkhan1998&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p> -->
-
-<!-- ![Github Stats](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/82591f810de6d5a525bcd5f9d5dd654038303d52/github-metrics.svg) -->
-
-<!-- ### :point_down: GitPic  -->
-
-<!-- ![lionelsamrat10](https://socialify.git.ci/lionelsamrat10/lionelsamrat10/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark) -->
-<!-- <div align="center">
-  <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=mdarshadkhan1998" />
-</div> -->
-
-<!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
 
 ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)
