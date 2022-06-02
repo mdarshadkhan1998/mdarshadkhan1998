@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png)
 
-<h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am MD ARSHAD KHAN</h1>
+<h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am MD ARSHAD KHAN</h1>
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
 
 ### Can Connect with me on :
