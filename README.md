@@ -5,7 +5,7 @@
 <h6 align="center"><i>I consider myself as a tech  enthusiastic person.</i></h6>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mdarshadkhan1998&label=Profile%20views&color=0e75b6&style=flat" alt="mdarshadkhan1998" />
-<a href="https://github.com/mdarshadkhan1998?tab=followers"><img src="https://img.shields.io/github/followers/mdarshadkhan1998?label=Followers&style=social" alt="GitHub Badge"></a></p><img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" />
+<a href="https://github.com/mdarshadkhan1998?tab=followers"><img src="https://img.shields.io/github/followers/mdarshadkhan1998?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
 
 ![age](https://img.shields.io/badge/age-23-blue)
@@ -108,6 +108,7 @@
 
 <a href="https://github.com/mdarshadkhan1998"><img src="https://github-readme-stats.vercel.app/api?username=mdarshadkhan1998&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="mdarshadkhan1998's GitHub stats" /></a>
 <a href="https://github.com/mdarshadkhan1998"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdarshadkhan1998&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" />
 <a href="https://github.com/mdarshadkhan1998"><img src="https://activity-graph.herokuapp.com/graph?username=mdarshadkhan1998&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
