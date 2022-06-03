@@ -15,10 +15,11 @@
 =============================
 
 <p align="left">
-  <a href="https://mdarshadkhan.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
-=============================
+  <a href="https://mdarshadkhan.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=1BB91F&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+</p>
 
-<h3><i> Can Connect with me on :<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+
+<h3><i> Can Connect with me on :</i></h3>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/md-arshad-khan-350206154/)
 [![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:mdarshadkhan1998@gmail.com)
