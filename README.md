@@ -11,7 +11,6 @@
 ![age](https://img.shields.io/badge/age-23-blue)
 ![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
-
 =============================
 
 <p align="left">
