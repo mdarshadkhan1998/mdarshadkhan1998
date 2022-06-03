@@ -14,7 +14,8 @@
 =============================
 
 <p align="left">
-  <a href="https://mdarshadkhan.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+<h5 align="center"><i>Portfolio --- /i></h5>
+<a href="https://mdarshadkhan.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 </p>
 
 
