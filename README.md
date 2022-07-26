@@ -8,7 +8,7 @@
 <a href="https://github.com/mdarshadkhan1998?tab=followers"><img src="https://img.shields.io/github/followers/mdarshadkhan1998?label=Followers&style=social" alt="GitHub Badge"></a><img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></p>
 
 
-![age](https://img.shields.io/badge/age-23-blue)
+![age](https://img.shields.io/badge/age-24-blue)
 ![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
