@@ -25,7 +25,7 @@
 
 
 <h3 align="center"><i> Can Connect with me on :</i></h3>
-
+<p align="center">
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/md-arshad-khan-350206154/)
 [![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:mdarshadkhan1998@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram--informational?style=flat&logo=instagram&logoColor=fd13b3&color=orange)](https://www.instagram.com/_mad___boxer_/)
@@ -34,6 +34,8 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/mdarshadkhan1998)
 [![Telegram Badge](https://img.shields.io/badge/Telegram--informational?style=flat&logo=Telegram&logoColor=white&color=slateblue)](https://t.me/mdarshadkhan)
 [![Youtube Badge](https://img.shields.io/badge/Youtube--informational?style=flat&logo=youtube&logoColor=ff0000&color=darkslateblue)](https://www.youtube.com/channel/UCGK-satop1PZ9njUOYCzHJw)
+</p>
+
 
 <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
 
