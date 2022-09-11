@@ -4,7 +4,7 @@
 <h5 align="center"><i>I'm a Full-Stack-Web Developer with some remarkable analytical skills.</i></h5>
 <h6 align="center"><i>I consider myself as a tech  enthusiastic person.</i></h6>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=38B2AC&center=true&lines=I+consider+myself+as+a+tech+ enthusiastic+person.;A+Full+Stack+Web+Developer;3000%2B+Hours+of+Coding+Experience;A+Creative+Coder;A+Proactive+Learner;A+Team+Player"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=38B2AC&center=true&lines=I+consider+myself+as+a+tech+ enthusiastic+person;A+Full+Stack+Web+Developer;3000%2B+Hours+of+Coding+Experience;A+Creative+Coder;A+Proactive+Learner;A+Team+Player"></a>
 </p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mdarshadkhan1998&label=Profile%20views&color=0e75b6&style=flat" alt="mdarshadkhan1998" />
