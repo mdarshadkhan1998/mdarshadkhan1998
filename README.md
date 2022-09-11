@@ -9,9 +9,12 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mdarshadkhan1998&label=Profile%20views&color=0e75b6&style=flat" alt="mdarshadkhan1998" />
 <a href="https://github.com/mdarshadkhan1998?tab=followers"><img src="https://img.shields.io/github/followers/mdarshadkhan1998?label=Followers&style=social" alt="GitHub Badge"></a>
-![age](https://img.shields.io/badge/age-24-blue)
+<!-- ![age](https://img.shields.io/badge/age-24-blue)
 ![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
-![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal) -->
+<img src="https://img.shields.io/badge/Age-24-blueviolet" alt="Age Badge">
+<img src="https://img.shields.io/badge/Living-Pune,Maharashtra-maroon" alt="location">
+<img src="https://img.shields.io/badge/Focus-Software_Development-teal" alt="focus">
 <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" />
 </p>
 =============================
