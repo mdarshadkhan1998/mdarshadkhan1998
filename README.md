@@ -18,8 +18,8 @@
 </p>
 
 <h5 align="center">
-<a href="https://mdarshadkhan.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
-<a href="https://drive.google.com/file/d/1xmpRNqeCQpHlwFqEBRx8gm8pE1D746YB/view?usp=sharing" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=maroon&logo=tmux&logoColor=white&label=" alt="Lybrate" /></a> 
+<a align="center" href="https://mdarshadkhan.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+<a align="center" href="https://drive.google.com/file/d/1xmpRNqeCQpHlwFqEBRx8gm8pE1D746YB/view?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=maroon&logo=tmux&logoColor=white&label=" alt="Lybrate" /></a> 
 </h5>
 
 
