@@ -17,15 +17,14 @@
 <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" />
 </p>
 
-<h5 align="center"><i>Portfolio - </i>
-<a href="https://mdarshadkhan.vercel.app/" target="blank" margin="10px"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
-<i>Resume - </i>
+<h5 align="center">
+<a href="https://mdarshadkhan.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 <a href="https://drive.google.com/file/d/1xmpRNqeCQpHlwFqEBRx8gm8pE1D746YB/view?usp=sharing" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=maroon&logo=tmux&logoColor=white&label=" alt="Lybrate" /></a> 
 </h5>
 
 
 
-<h3><i> Can Connect with me on :</i></h3>
+<h3 align="center"><i> Can Connect with me on :</i></h3>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/md-arshad-khan-350206154/)
 [![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:mdarshadkhan1998@gmail.com)
