@@ -35,7 +35,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram--informational?style=flat&logo=Telegram&logoColor=white&color=slateblue)](https://t.me/mdarshadkhan)
 [![Youtube Badge](https://img.shields.io/badge/Youtube--informational?style=flat&logo=youtube&logoColor=ff0000&color=darkslateblue)](https://www.youtube.com/channel/UCGK-satop1PZ9njUOYCzHJw) -->
 
-<p align="center"> <a href="https://www.linkedin.com/in/md-arshad-khan-350206154/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson"></a> 
+<p align="center"> <a href="https://www.linkedin.com/in/md-arshad-khan-350206154/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson"></a> 
 <a href="mailto:mdarshadkhan1998@gmail.com" ><img src="https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000"></a> 
 <a href="https://www.instagram.com/_mad___boxer_/"><img src="https://img.shields.io/badge/Instagram--informational?style=flat&logo=instagram&logoColor=fd13b3&color=orange"></a> 
 <a href="https://medium.com/@mdarshadkhan1998"><img src="https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow"></a>
