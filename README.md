@@ -109,7 +109,7 @@
 <a href="https://github.com/mdarshadkhan1998/Adidas-Website-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p> -->
 
-  <table align="center">
+<!--   <table align="center">
   <tr>
     </td>
     <td align="center" width="96">
@@ -138,12 +138,13 @@
     </td>
     </td>
   </tr>
-</table> 
+</table>  -->
 
 
-### Badges
+<!-- ### Badges -->
 
-<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
+<h3 align="center" ![image](https://user-images.githubusercontent.com/98782705/189546321-494260ca-1ab5-495e-a8f2-41ac952bfa46.png)
+><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 <a href="https://github.com/mdarshadkhan1998"><img src="https://github-readme-stats.vercel.app/api?username=mdarshadkhan1998&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="mdarshadkhan1998's GitHub stats" /></a>
 <a href="https://github.com/mdarshadkhan1998"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdarshadkhan1998&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/mdarshadkhan1998"><img src="https://activity-graph.herokuapp.com/graph?username=mdarshadkhan1998&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
