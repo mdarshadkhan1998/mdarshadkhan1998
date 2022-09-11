@@ -7,13 +7,13 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=e37b9a&center=true&lines=A+Full+Stack+Web+Developer;3000%2B+Hours+of+Coding+Experience;A+Proactive+Learner;A+Creative+Coder;A+Team+Player"></a>
 </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mdarshadkhan1998&label=Profile%20views&color=0e75b6&style=flat" alt="mdarshadkhan1998" />
-<a href="https://github.com/mdarshadkhan1998?tab=followers"><img src="https://img.shields.io/github/followers/mdarshadkhan1998?label=Followers&style=social" alt="GitHub Badge"></a><img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></p>
-
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mdarshadkhan1998&label=Profile%20views&color=0e75b6&style=flat" alt="mdarshadkhan1998" />
+<a href="https://github.com/mdarshadkhan1998?tab=followers"><img src="https://img.shields.io/github/followers/mdarshadkhan1998?label=Followers&style=social" alt="GitHub Badge"></a>
 ![age](https://img.shields.io/badge/age-24-blue)
 ![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+<img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" />
+</p>
 =============================
 
 
